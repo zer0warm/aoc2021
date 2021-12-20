@@ -1,0 +1,17 @@
+= Advent Of Code 2021
+
+== What?
+
+My solutions to link:https://adventofcode.com/2021[AoC 2021].
+
+== Whose?
+
+Me.
+
+== How?
+
+Code is written in link:https://go.dev[Go]. Apply to personal input file.
+
+== Remarks
+
+Leaderboard is not my concern. Just want to have fun.
