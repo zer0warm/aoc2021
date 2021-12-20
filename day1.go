@@ -8,7 +8,7 @@ import (
 
 func main() {
 	depths := []utils.Input{}
-	utils.ReadFileByLines("input", &depths, day1.ParseInput)
+	utils.ReadFileByLines("day1/input", &depths, day1.ParseInput)
 
 	firstResult := day1.CountIncreasingDepths(depths)
 	fmt.Print("1. Number of measurements larger than previous measurement: ")
